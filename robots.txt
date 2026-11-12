@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /date/
+Sitemap: https://grupulverde.ro/adopta-o-scrisoare/sitemap.xml
